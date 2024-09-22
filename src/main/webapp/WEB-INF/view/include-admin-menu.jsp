@@ -1,10 +1,12 @@
 <%@ taglib prefix="sec" uri="http://www.springframework.org/security/tags" %>
-
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+    
 	 	<!-- Brand Logo -->
 	    <a href="http://localhost:8080/BlogProject/admin/" class="brand-link">
 	      <img src="${pageContext.request.contextPath}/admin/dist/img/AdminLTELogo.png" alt="Cubes School Logo" class="brand-image img-circle elevation-3"
 	           style="opacity: .8">
-	      <span class="brand-text font-weight-light">Cubes School</span>
+	      <span class="brand-text font-weight-light">Ilić rasadnik</span>
 	    </a>
 	    
 	    

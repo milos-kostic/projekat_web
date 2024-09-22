@@ -14,7 +14,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>Cubes school - Blog project</title>
+    <title>Ilić rasadnik</title>
 
 
 	  <!-- Font Awesome Icons -->

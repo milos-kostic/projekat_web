@@ -29,18 +29,18 @@
         
           <!-- Navbar Brand -->
           <div class="navbar-header d-flex align-items-center justify-content-between">
-            <!-- Navbar Brand --><a href="/BlogProject/homepage" class="navbar-brand">Ilic-rasadnik</a>
+            <!-- Navbar Brand --><a href="/ilicrasadnik/homepage" class="navbar-brand">Ilić-rasadnik</a>
             <!-- Toggle Button-->
             <button type="button" data-toggle="collapse" data-target="#navbarcollapse" aria-controls="navbarcollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"><span></span><span></span><span></span></button>
           </div>
           <!-- Navbar Menu -->
           <div id="navbarcollapse" class="collapse navbar-collapse">
             <ul class="navbar-nav ml-auto">
-              <li class="nav-item"><a href="/BlogProject/homepage" class="nav-link active">Home</a>
+              <li class="nav-item"><a href="/BlogProject/homepage" class="nav-link active">Početna</a>
               </li>
               <li class="nav-item"><a href="/BlogProject/blog-list" class="nav-link">Blog</a>
               </li>
-              <li class="nav-item"><a href="/BlogProject/contact-form" class="nav-link">Contact</a>
+              <li class="nav-item"><a href="/BlogProject/contact-form" class="nav-link">Kontakt</a>
               </li>
             </ul>
             

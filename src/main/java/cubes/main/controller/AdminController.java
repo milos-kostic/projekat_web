@@ -78,10 +78,7 @@ public class AdminController {
 			
 			Boolean isAdmin = userDAO.getUser(principal.getName()).isAdmin();
 			model.addAttribute("isAdmin", isAdmin);
-			
- 	 
-			
-			
+			 
 				long unreadMessagesCout= messageDAO.getUnreadMessagesCount();			
 				model.addAttribute("unreadMessagesCount",unreadMessagesCout);
 				
