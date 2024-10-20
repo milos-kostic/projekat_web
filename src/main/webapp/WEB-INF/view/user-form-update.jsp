@@ -134,7 +134,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                        
 	 
 	 					  <!-- Image: -->
-						  <div class="form-group">
+<!-- 						  <div class="form-group">
 	                        <label>Image</label>
 	                        <form:input 
 	                        		path="image"
@@ -144,7 +144,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
 	                        <form:errors path="image" cssClass="error" style="color: red;"/>	          
 	                      </div>
 	                  
-	                   
+	           -->         
                                  			
        
 	                     <!-- Upload file -->
@@ -171,17 +171,16 @@ scratch. This page gets rid of all links and provides the needed markup only.
             
             
             						<!--  Upload file - New photo: -->
-<!--             					    <div class="form-group"> -->
-<!--                                         <label>Choose New Photo</label> -->
-<!--                                         <input  -->
-                                        
-<!--                                           	  name="photo"  -->
-                                          	  
-<!--                                             type="file"  -->
-<!--                                             class="form-control" -->
-<!--                                             > -->
-<%-- <%-- 									<form:errors path="image" cssClass="error" style="color: red;"/>	           --%>  
-<!--                                     </div> -->
+              					    <div class="form-group">  
+                                         <label>Choose New Photo</label>  
+                                          <form:input    
+                                          		path="image"
+                                           	  name="photo"   
+                                               type="file"   
+                                              class="form-control"  
+                                             /> 
+ 									 <form:errors path="image" cssClass="error" style="color: red;"/>	           
+                                     </div> 
                                      
 	                    </div>
 	                     
