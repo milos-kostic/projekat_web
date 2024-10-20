@@ -107,7 +107,18 @@ scratch. This page gets rid of all links and provides the needed markup only.
                         		 <form:errors path="image" cssClass="error" style="color: red;"/>
                       </div>
                  
-                                       
+                      <!-- Image from local pc -->
+<!-- 				  <div class="form-group">
+                        <label>Brawse Image</label>
+                        <form:input 
+                        		path="image"
+                        		type="text" 
+                        		class="form-control" 
+                        		placeholder="Enter image url" />
+                        		 <form:errors path="image" cssClass="error" style="color: red;"/>
+                      </div>
+                      
+            -->	                    
                       <!-- Button Title -->
                       <div class="form-group">
                         <label>Button Title</label>

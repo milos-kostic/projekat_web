@@ -9,8 +9,7 @@
 
     <form method="post" action="upload" enctype="multipart/form-data"> 
         
-        <input id="file-id" type="file" name="file" /><br/>
-        
+        <input id="file-id" type="file" name="file" /><br/>        
         <input type="submit" value="Upload"/>
         
     </form>
